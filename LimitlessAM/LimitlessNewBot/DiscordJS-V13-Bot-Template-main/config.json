@@ -1,0 +1,12 @@
+{
+    "prefix": "!",
+    "client": {
+        "TOKEN": "MTEyMTQ4MjUxNzIyMDk2NjUxMQ.GxzzdZ.gp3eHHZK3YVlLsQA-RAfvdXsplo_4DjS9lWUIA",
+        "ID": "1121482517220966511"
+    },
+    "handlers": {
+        "slash": {
+            "TESTING_GUILD_ID": "1121098807543861288"
+        }
+    }
+}
